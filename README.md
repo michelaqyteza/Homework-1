@@ -31,9 +31,10 @@ ________________________________________________________________________________
 
 ### Location 
 
-Visit our website here: [Heriseon] ()
+Visit our website here: [Heriseon](https://michelaqyteza.github.io/Homework-1/)
+
 
 ___________________________________________________________________________________
 ### Contact 
+https://github.com/michelaqyteza
 
-Michela Qyteza - Github: 
